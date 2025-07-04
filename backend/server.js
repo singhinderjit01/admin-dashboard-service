@@ -28,3 +28,5 @@ app.post('/products', (req, res) => {
 app.listen(PORT, () => {
   console.log(`Product Service running at http://localhost:${PORT}`);
 });
+// dummy change
+// trigger CI run
